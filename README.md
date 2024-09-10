@@ -51,8 +51,8 @@ ____
     После чего в окне выбора запуска появляется эмулятор на ОС Android 
     
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/5e484d35-ae5a-46f3-afa6-e6385e65a931">
-  
-    Запускаем приложение через эмулятор
+
+  Запускаем приложение через эмулятор
     
   <img width="372" alt="image" src="https://github.com/user-attachments/assets/6f418832-26c6-4569-a014-d1025303cf90">
   
