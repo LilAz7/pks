@@ -18,6 +18,7 @@ ____
 1 Загрузка программ для написания кода 
   1.1 Загрузка расширения для VSCode 
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/88bd93a9-cc0d-4b16-a58e-5c6a4be177c0">
+  
   1.2 Установка Flutter с официального сайта 
   1.3 Установка SDK
   1.4 Установка Android Studio
