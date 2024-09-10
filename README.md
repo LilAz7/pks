@@ -1,6 +1,6 @@
-# flutter_application_1
+# Отчет по практике №1
 
-A new Flutter project.
+Дисциплина: Программирование корпоративных систем
 
 ## Getting Started
 
