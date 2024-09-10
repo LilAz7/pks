@@ -15,7 +15,7 @@ ____
 
 Этапы создания приложения
 
-1 Загрузка программ для написания кода 
+## 1 Загрузка программ для написания кода 
   1.1 Загрузка расширения для VSCode 
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/88bd93a9-cc0d-4b16-a58e-5c6a4be177c0">
   
@@ -24,16 +24,18 @@ ____
   1.4 Установка Android Studio
   1.5 Установка Dart
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/18c2c39f-50dc-44a5-8a55-eec44f67b16e">
+  
   1.6 Установка эмулятора 
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/4d053308-7e11-484b-9cce-dd1716a91cdb">
 
 
-2 Создание приложения
+
+## 2 Создание приложения
   2.1 Создать первое приложение на Flutter
     Для создания начального пприложения требуется нажать сочетание клавиш shift+command+p (macos) и в открывшемся меню выбрать Flutter: New Project
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/8d958378-ccfd-42b4-a94b-692e74c1d5a8">
 
-3 Запуск приложения 
+## 3 Запуск приложения 
   3.1 Запуск веб-версии приложения
     Для запуска веб-версии приложения требуется установить Google Chrome 
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/30609976-bc30-4a45-a698-58e76af07863">
