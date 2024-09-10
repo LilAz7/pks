@@ -1,11 +1,19 @@
 # Отчет по практике №1
+____
 
 Дисциплина: Программирование корпоративных систем
 ____
+Студент: Чебан Андрей
+Группа: ЭФБО-07-22
+Шифр: 22ЛО504
+Преподаватель: Адышкин Сергей Сергеевич
+Семестр: 5 , 2024-2025 гг.
+____
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Первое приложение Flutter
+
+Этапы создания приложения
 
 A few resources to get you started if this is your first Flutter project:
 
