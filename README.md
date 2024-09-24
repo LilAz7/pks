@@ -11,9 +11,23 @@ ____
 ____
 
 
-## Добавление карточки во Flutter
+## Добавление карточки товара во Flutter
 
-1. Запуск в веб-эмуляторе
+1. Окна для добавления карточки товара
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/1e6c8245-5eef-4b11-981c-2a0bedf2543d">
+
+2. Добавление товара в каталог
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/585567c5-5ceb-4ed6-bef6-27fae53b84d5">
+
+3. Отображение карточки товара
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/d255b163-5874-4e81-a628-ef7afb5ecff5">
+
+
+
+
 
 
 
