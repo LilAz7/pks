@@ -11,19 +11,20 @@ ____
 ____
 
 
-## Добавление карточки товара во Flutter
+## 3 экрана 
 
-1. Окна для добавления карточки товара
+1. Экран "Главная" с возможностью добавления карточки в Избранное
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/1e6c8245-5eef-4b11-981c-2a0bedf2543d">
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/3db02e3d-98b8-471b-9a70-789bdd8a4ef3">
 
-2. Добавление товара в каталог
+2. Экран "Избранное" с возможностью удаления карточки из Избранного
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/585567c5-5ceb-4ed6-bef6-27fae53b84d5">
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/c58998d0-103a-4544-97d2-083705168659">
 
-3. Отображение карточки товара
+3. Экран "Профиль" с аватаром и фио пользователя
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/d255b163-5874-4e81-a628-ef7afb5ecff5">
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/8795bfe0-2ecb-4c49-98fe-dc4d4fe97319">
+
 
 
 
