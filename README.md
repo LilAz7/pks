@@ -53,10 +53,8 @@ ____
   <img width="468" alt="image" src="https://github.com/user-attachments/assets/5e484d35-ae5a-46f3-afa6-e6385e65a931">
 
   Запускаем приложение через эмулятор
-    
-  <img width="372" alt="image" src="https://github.com/user-attachments/assets/6f418832-26c6-4569-a014-d1025303cf90">
-  
 
+  <img width="348" alt="Снимок экрана 2024-10-21 в 22 57 00" src="https://github.com/user-attachments/assets/2a6f3f85-adc4-40be-8df7-7283b67a28e7">
 
 
 
