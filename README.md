@@ -16,16 +16,16 @@ ____
 В данной практической работе необходимо разработать проект на Flutter используя макет Figma
 
 <img width="898" alt="Снимок экрана 2024-10-21 в 13 58 07" src="https://github.com/user-attachments/assets/4998729b-078b-4a8b-958f-d9bce6615e95">
-
-## Экран "Главная"
+----
+## 1. Экран "Главная"
 
   <img width="1196" alt="Снимок экрана 2024-10-21 в 13 58 38" src="https://github.com/user-attachments/assets/de79067a-2776-4b29-b611-5d744430416f">
-
-## Экран "Корзина"
+----
+## 2. Экран "Корзина"
 
   <img width="1196" alt="Снимок экрана 2024-10-21 в 13 59 05" src="https://github.com/user-attachments/assets/11db7499-43e9-451b-84c3-834ff4747754">
-
-## Экран "Профиль"
+----
+## 3. Экран "Профиль"
 
   <img width="1440" alt="Снимок экрана 2024-10-21 в 13 59 48" src="https://github.com/user-attachments/assets/9545972d-5481-490b-baec-6b5d3db9de88">
 
