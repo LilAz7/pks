@@ -1,4 +1,4 @@
-# Отчет по практике №1
+# Отчет по практике №7
 ____
 
 ## Дисциплина: Программирование корпоративных систем
@@ -11,50 +11,26 @@ ____
 ____
 
 
-## Первое приложение Flutter
+## Создание приложения по проекту Figma
 
-Этапы создания приложения
+В данной практической работе необходимо разработать проект на Flutter используя макет Figma
 
-## 1 Загрузка программ для написания кода 
-  1.1 Загрузка расширения для VSCode 
-  
-  <img width="468" alt="image" src="https://github.com/user-attachments/assets/88bd93a9-cc0d-4b16-a58e-5c6a4be177c0">
-  
-  1.2 Установка Flutter с официального сайта 
-  1.3 Установка SDK
-  1.4 Установка Android Studio
-  1.5 Установка Dart
-  
-  <img width="468" alt="image" src="https://github.com/user-attachments/assets/18c2c39f-50dc-44a5-8a55-eec44f67b16e">
-  
-  1.6 Установка эмулятора 
-  
-  <img width="468" alt="image" src="https://github.com/user-attachments/assets/4d053308-7e11-484b-9cce-dd1716a91cdb">
+<img width="898" alt="Снимок экрана 2024-10-21 в 13 58 07" src="https://github.com/user-attachments/assets/4998729b-078b-4a8b-958f-d9bce6615e95">
+
+## Экран "Главная"
+  <img width="1196" alt="Снимок экрана 2024-10-21 в 13 58 38" src="https://github.com/user-attachments/assets/de79067a-2776-4b29-b611-5d744430416f">
+
+## Экран "Корзина"
+  <img width="1196" alt="Снимок экрана 2024-10-21 в 13 59 05" src="https://github.com/user-attachments/assets/11db7499-43e9-451b-84c3-834ff4747754">
+
+## Экран "Профиль"
+  <img width="1440" alt="Снимок экрана 2024-10-21 в 13 59 48" src="https://github.com/user-attachments/assets/9545972d-5481-490b-baec-6b5d3db9de88">
 
 
 
-## 2 Создание приложения
-  2.1 Создать первое приложение на Flutter
-    Для создания начального пприложения требуется нажать сочетание клавиш shift+command+p (macos) и в открывшемся меню выбрать Flutter: New Project
-    
-  <img width="468" alt="image" src="https://github.com/user-attachments/assets/8d958378-ccfd-42b4-a94b-692e74c1d5a8">
-  
 
-## 3 Запуск приложения 
-  3.1 Запуск веб-версии приложения
-    Для запуска веб-версии приложения требуется установить Google Chrome 
-    
-  <img width="468" alt="image" src="https://github.com/user-attachments/assets/30609976-bc30-4a45-a698-58e76af07863">
-  
-  3.2 Запуск через эмулятор
-    Для запуска приложения через эмулятор требуется установить Android Studio и компоненты для него с официального сайта 
-    После чего в окне выбора запуска появляется эмулятор на ОС Android 
-    
-  <img width="468" alt="image" src="https://github.com/user-attachments/assets/5e484d35-ae5a-46f3-afa6-e6385e65a931">
 
-  Запускаем приложение через эмулятор
-    
-  <img width="372" alt="image" src="https://github.com/user-attachments/assets/6f418832-26c6-4569-a014-d1025303cf90">
+
   
 
 
