@@ -21,6 +21,9 @@ Android-эмулятор
 
 <img width="319" alt="image" src="https://github.com/user-attachments/assets/4a980a18-118c-43d0-a71b-04d9eb3f4436">
 
+iOS-Эмулятор 
+
+<img width="348" alt="Снимок экрана 2024-10-21 в 22 59 33" src="https://github.com/user-attachments/assets/55493f6f-a748-4da7-8529-883dbce7097d">
 
 
 
