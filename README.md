@@ -20,7 +20,7 @@ ____
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/ef9d9310-5e29-4d32-944a-c6c565ae2fb3">
 
-Уведомление о добавлении товара в корзину
+
 <img width="1276" alt="Снимок экрана 2024-10-19 в 19 18 10" src="https://github.com/user-attachments/assets/ea4331cb-e207-4667-ab04-0962d5f041e2">
 
 
